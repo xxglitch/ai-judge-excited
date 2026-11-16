@@ -8,7 +8,7 @@ One image that excites an AI judge, built for make.fun's "Make the AI judge exci
 
 ## The image
 
-A colossal bioluminescent whale breaching vertically through a rain-slicked neon city street at night, water exploding in glowing arcs between the skyscrapers. Made to land a jolt of awe: the whale-in-a-city twist, frozen mid-breach, reading clearly even small.
+A colossal ancient hourglass standing alone in a vast desert at dusk, its glass glowing warm amber — but instead of falling down, the sand streams UPWARD out of the top bulb in a spiraling golden torrent, dissolving into a swirling storm of stars and constellations across a deep indigo night sky. A tiny silhouetted traveler far below gives the scale. Made to land a jolt of wonder: time itself running backwards, molten gold against deep blue, reading clearly even small.
 
 ## How it works
 
@@ -18,7 +18,7 @@ A colossal bioluminescent whale breaching vertically through a rain-slicked neon
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
-`entry.png` is 736x736, 973,917 bytes (limit: 1024x1024, 1 MiB).
+`entry.png` is 800x800, 1,032,773 bytes (limit: 1024x1024, 1 MiB).
 
 ---
 
